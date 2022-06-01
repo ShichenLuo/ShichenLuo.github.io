@@ -1,6 +1,8 @@
 title: Shichen Luo's Homepage
 logo: /assets/img/profile.png
 description: Welcome to my homepage.
+location: Sydney, Australia
+email: ren111luo@gmail.com
 show_downloads: false
 google_analytics:
 remote_theme: pages-themes/minimal@v0.2.0
