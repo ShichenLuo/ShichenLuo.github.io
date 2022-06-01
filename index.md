@@ -1,24 +1,12 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Shichen Luo
 
-[Link to another page](./another-page.html).
+I am currently a MRes student at School of Computing, Macquarie University, Australia, advised by Dr. Jia Wu and Prof. Jian Yang. I obtained my Master's degree from The University of New South Wales and bachelor's from Southwestern University of Finance and Economics, China.
 
-There should be whitespace between paragraphs.
+My research interests include deep learning, data mining and image processing.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Publications
+[1] **Luo**, S., Heng, Z., Pagnucco, M. and Song, Y., 2022, March. Two-Stage Topological Refinement Network for Retinal Artery/Vein Classification. In 2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI) (pp. 1-4). IEEE.
 
 ### Header 3
 
